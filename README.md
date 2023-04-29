@@ -1,34 +1,8 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css">
-<style>
-:root {
-	--icon_size: 64px;
-}
-.dev_icon {
-	font-size: var(--icon_size);
-}
-#gm_logo > img {
-	height: var(--icon_size);
-    object-fit:cover;
-    object-position:left;
-}
-#gm_logo {
-	width: var(--icon_size);
-    height: var(--icon_size);
-    overflow: hidden
-}
-#icons {
-	display: flex;
-    justify-content: center;
-}
-</style>
-<div id="icons">
-<i class="devicon-html5-plain colored dev_icon"></i>
-<i class="devicon-css3-plain colored dev_icon"></i>
-<i class="devicon-javascript-plain colored dev_icon"></i>
-<i class="devicon-nodejs-plain colored dev_icon"></i>
-<i class="devicon-cplusplus-plain colored dev_icon"></i>
-<i class="devicon-python-plain colored dev_icon"></i>
-<div id="gm_logo"><img src="https://upload.wikimedia.org/wikipedia/en/4/4b/GameMaker_Logo.svg" >
-</div>
-
-
+<p> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="cplusplus" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-plain.svg" alt="html5" width="40" height="40"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-plain.svg" alt="nodejs" width="40" height="40"/>
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+</p>
