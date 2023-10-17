@@ -3,6 +3,7 @@
 I started game development in 2018 and got into web development in around 2022.
 <br>
 Currently, I'm pursuing to be a full-stack developer.
+Visit [wanthedev.github.io](https://www.google.com) for more information or direct contact!
 
 | **Language** |              **Experience**             |                                                                                                                                **Notes**                                                                                                                               |
 |:------------:|:---------------------------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
