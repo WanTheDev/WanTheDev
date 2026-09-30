@@ -3,4 +3,4 @@
 I started game development in 2018 and got into web & software development in around 2022.
 <br>
 
-[wanthedev.github.io](https://wanthedev.github.io)
+[wanthe.dev](https://wanthe.dev)
